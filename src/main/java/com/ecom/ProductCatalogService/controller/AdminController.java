@@ -73,7 +73,7 @@ public class AdminController {
 
  public ResponseEntity<Boolean> saveCategory(@ModelAttribute Category categoryModel) throws IOException {
 
-     // Check if the category name already exists
+     // Ch-eck if the category name already exists
 
 //     String imageName = (file != null && !file.isEmpty()) ? file.getOriginalFilename() : "default.jpg";
 //     categoryModel.setImageName(imageName);
